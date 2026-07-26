@@ -1,6 +1,5 @@
-package lab03;
 
-public class Driverr {
+public class Driver2 {
     public static void main(String[] args) {
 
         Card[] cards = {

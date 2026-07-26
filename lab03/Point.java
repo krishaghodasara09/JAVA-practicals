@@ -1,4 +1,4 @@
-package lab03;
+
 import java.util.*;
 public class Point {
     private int x;

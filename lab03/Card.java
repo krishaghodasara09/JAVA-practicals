@@ -1,4 +1,3 @@
-package lab03;
 
 import java.util.Objects;
 
