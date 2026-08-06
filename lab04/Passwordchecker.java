@@ -1,6 +1,5 @@
 package lab04;
 
-import java.util.*;
 public class Passwordchecker{
     public static Boolean length(String pwd){
         return pwd.length()>=8;
