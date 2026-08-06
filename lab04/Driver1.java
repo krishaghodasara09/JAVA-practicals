@@ -2,11 +2,7 @@ package lab04;
 
 public class Driver1 {
     public static void main(String[] args) {
-        String[] passwords = {
-            "abc",
-            "PasssW",
-            "Abcd1234!",
-        };
+        String[] passwords = {"abc", "PasssW","Abcd1234!","HELLO!2"};
 
         for (String pwd : passwords) {
 

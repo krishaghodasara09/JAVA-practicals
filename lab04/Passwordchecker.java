@@ -28,9 +28,9 @@ public class Passwordchecker{
         if(count<=1)
             return "Weak";
         else if(count==4)
-            return "Medium";
-        else
             return "Strong";
+        else
+            return "Medium";
     }
 }
  
