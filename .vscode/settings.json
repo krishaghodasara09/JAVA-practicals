@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": [
+        ".",
+        "lab01",
+        "lab02",
+        "lab03"
+    ],
+    "java.project.referencedLibraries": [
+        "lab14\\lib\\junit-platform-console-standalone-1.11.4.jar"
+    ]
+}
